@@ -1,0 +1,5 @@
+package com.vu.dto;
+
+public class UserDto {
+
+}
